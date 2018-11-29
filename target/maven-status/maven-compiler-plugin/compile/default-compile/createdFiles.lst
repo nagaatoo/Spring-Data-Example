@@ -1,0 +1,6 @@
+com\example\App\BestAppInTheWorld\ServiceForJPA.class
+com\example\App\BestAppInTheWorld\SpringDataExampleApplication.class
+com\example\App\BestAppInTheWorld\Student.class
+com\example\App\BestAppInTheWorld\Repositories\StudentRepository.class
+com\example\App\BestAppInTheWorld\ExampleClass.class
+com\example\App\BestAppInTheWorld\Configs\ConfigBeans.class
